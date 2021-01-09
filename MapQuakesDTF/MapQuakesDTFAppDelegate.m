@@ -6,7 +6,7 @@
 //  Copyright 2011 __MyCompanyName__. All rights reserved.
 //
 
-#import "MapQuakesDTFAppDelegate.h"
+#import "MapQuakesDTF2AppDelegate.h"
 
 #import "MapQuakesDTFViewController.h"
 
